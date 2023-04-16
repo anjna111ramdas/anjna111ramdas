@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/ramda/Downloads/Resume%20fin.pdf](file:///C:/Users/ramda/Downloads/Resume%20fin.pdf)
 
-<img align="right" alt="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU](https://media3.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)">
+<img align="right" src="https://media2.giphy.com/media/IPbS5R4fSUl5S/giphy.webp?cid=ecf05e47zllhuphfs5wkvzi51z0ozjfkz2eoc7qvlmtfz26d&rid=giphy.webp&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
